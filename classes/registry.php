@@ -86,5 +86,5 @@ $registry = new Registry;
 
 //echo $registry['name']; // обращение типа к массиву, хотя это объект
 
-
+//param pom pom
 ?>
