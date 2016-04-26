@@ -84,7 +84,7 @@ $registry = new Registry;
 
 //echo  $registry->get ('name'); // объект
 
-//echo $registry['name']; // обращение типа к массиву, хотя это объект
+//echo $registry['name']; // обращение как бы к массиву, хотя это объект
 
 
 ?>
