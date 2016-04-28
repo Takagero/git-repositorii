@@ -19,11 +19,11 @@ require_once($site_path . 'startup.php');
 # Загружаем объект Template
 
 
-# Загружаем router
-# Загружаем router
-# Загружаем router
-# Загружаем router
-# Загружаем router
-# Загружаем router
+# Загружаем router;
+# Загружаем router;
+# Загружаем router;
+# Загружаем router;
+# Загружаем router;
+# Загружаем router;
 
 ?>
