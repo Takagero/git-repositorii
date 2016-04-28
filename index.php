@@ -21,7 +21,5 @@ require_once($site_path . 'startup.php');
 
 # Загружаем router
 
-# Загружаем router2
-# Загружаем router3
-# Загружаем router4
+
 ?>
