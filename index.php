@@ -20,5 +20,7 @@ require_once($site_path . 'startup.php');
 
 
 # Загружаем router
+# Загружаем router
+# Загружаем router
 
 ?>
