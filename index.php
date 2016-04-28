@@ -13,13 +13,13 @@ define ('site_path', $site_path);
 //Подключаем startup (загрузка классов на лету)
 require_once($site_path . 'startup.php');
 
-# Соединяемся с БД;
+# Соединяемся с БД;;
 
 
-# Загружаем объект Template;
+# Загружаем объект Template;;
 
 
-# Загружаем router;
+# Загружаем router;;
 
 
 ?>
