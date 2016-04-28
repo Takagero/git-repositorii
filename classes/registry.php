@@ -44,7 +44,7 @@ private  $vars = array();
 }
 
 $registry = new Registry;
-//
-//
-//
+//////
+//////
+//////
 ?>
